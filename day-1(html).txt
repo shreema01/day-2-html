@@ -1,0 +1,31 @@
+LEVEL 0:::::::
+
+1.IDE importance?
+2.IDE selection for Html
+3.VsCode extensions importance 
+4.Website components and fundamentals
+  -->client side and server side 
+  -->Role of Browser
+5.Frontend Specific
+  -->Html basic
+  -->CSS basic
+  -->Java Script Basic
+
+LEVEL 1:::::::
+
+1.Text editor use for project/folder opening
+2.extentions of html
+3.Visual Studio Code use for project/folder opening
+4.local device e server make kora
+5.Importance of index.html
+
+Html main basic:::::::
+-->what are tags
+-->Basic html page description
+-->MDN documentation
+-->comments(for html only <!-- --> is used every time)
+-->case sensitivity(same lower and upper, but for general purpose use lower case)
+
+
+
+
