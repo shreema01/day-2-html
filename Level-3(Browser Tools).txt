@@ -4,4 +4,10 @@ Level-3:(Browser Tools)
 -Inspect Element
 -Html without CSS
 -Responsive design
--
+-Live edit HTML
+-Live edit CSS
+-Live edit js
+-changes only happens in client current session
+-validating the web page(validator.w3.org);webpage er validation check korte kaje lage
+-Project of Level-3
+
