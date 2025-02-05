@@ -1,0 +1,16 @@
+Level 2:
+1.What is attributes?
+2.What is id property?
+3.Heading tag?
+4.Paragraph tag?
+5.br tag?
+6.hr tag?
+7.image tag
+8.Video tag
+9.anchor tag
+10.Bold,Italic,Underline,Strikethorugh tag 
+11.big,small tag
+12.Superscript(niche)/subscript(upore) tag
+13. character Entity Reference
+
+14.Project of Level-2(Finally i complete this)
