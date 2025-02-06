@@ -1,1 +1,25 @@
 Level-4(HTML and Project Structure):
+
+->Semantic Tags
+ .Semantic/Non-Semantic Tags
+
+->Body Tags
+ .Header Tag
+ .Main Tag
+   -Section Tag
+   -Article Tag 
+   -Aside Tag
+
+->Footer Tag
+
+->Folder structure
+ .Recommended Folder structure
+
+->More tags
+ .Navigation tags
+ .Block/Inline Elements
+ .Div tags
+ .span tags
+
+ 
+    
